@@ -1,0 +1,23 @@
+# Archivos temporales
+*.tmp
+*.temp
+*.bak
+
+# Blender autosaves
+*.blend1
+*.blend2
+
+# Caché
+.cache/
+__pycache__/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Archivos compilados
+*.exe
+*.dll
+
+# Logs
+*.log
